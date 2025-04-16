@@ -3,7 +3,7 @@
 - Class Date: April 9-10, 2025
 - Facilitator: @housten
 
-## Class Resources
+## Class Resources - udated the file with text
 
 - [GitHub for Developers Manual](https://githubtraining.github.io/training-manual/#/)
 - [Introduction to GitHub Flow](https://guides.github.com/introduction/flow/)
